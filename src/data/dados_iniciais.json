@@ -1,101 +1,101 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Music",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Minhas playlists favoritas no YouTube",
+        "url": "https://www.youtube.com/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Metallica S&M 2000 Full Concert",
+          "url": "https://www.youtube.com/watch?v=zMD7qmge2D4&t=2544s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Metallica S&M (2000)",
+          "url": "https://www.youtube.com/watch?v=zMD7qmge2D4&t=2544s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Meu mix",
+          "url": "https://www.youtube.com/watch?v=O_dZGrg6A50&list=RDMMO_dZGrg6A50&start_radio=1"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Mix Nonpoint",
+          "url": "https://www.youtube.com/watch?v=OoGg9bIyDPY&list=RDEMXPt4kwRyOxOEU_xgqT_geQ&start_radio=1"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Mix Patty Gurdy",
+          "url": "https://www.youtube.com/watch?v=Ec729nmajwc&list=RDEMOpm6jN6jim7FnIWwhSlz7w&start_radio=1"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Mix de rock",
+          "url": "https://www.youtube.com/watch?v=eiFHJr7bKp4&list=RDGMEMJQXQAmqrnmK1SEjY_rKBGAVMO_dZGrg6A50&index=2"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Celtic metal",
+          "url": "https://www.youtube.com/watch?v=U5u9glfqDsc&list=RDU5u9glfqDsc&start_radio=1&t=2"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Series",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Trailer de series",
+        "url": "https://www.youtube.com/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Anne with an e",
+          "url": "https://www.youtube.com/watch?v=bBervTlBurY"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "O Justiceiro",
+          "url": "https://www.youtube.com/watch?v=flVhhEmkNKM"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Demolidor",
+          "url": "https://www.youtube.com/watch?v=y3GkQ6yoAA4"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Os Defensores",
+          "url": "https://www.youtube.com/watch?v=idQmQQBcCmE"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Peaky Blinders",
+          "url": "https://www.youtube.com/watch?v=oVzVdvGIC7U"
+        },
+        {
+          "titulo": "Supernatural",
+          "url": "https://www.youtube.com/watch?v=CX1Wn5zkfI8"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Animes",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Melhores animes",
+        "url": "https://www.youtube.com/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Naruto vs Sasuke",
+          "url": "https://www.youtube.com/watch?v=z5TEiYRv558"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Kirito vs Gleam Eyes",
+          "url": "https://www.youtube.com/watch?v=yClXqINEJdU"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Ichigo vs Aizen",
+          "url": "https://www.youtube.com/watch?v=CyrLQROwqO4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Tanjiro vc Rui",
+          "url": "https://www.youtube.com/watch?v=o-tLTvDX2zE"
         }
       ]
     },
@@ -162,22 +162,6 @@
         {
           "titulo": "Como estudar melhor?",
           "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }
