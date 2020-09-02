@@ -3,7 +3,7 @@
     {
       "titulo": "Music",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#D91A2A",
       "link_extra": {
         "text": "Minhas playlists favoritas no YouTube",
         "url": "https://www.youtube.com/"
@@ -41,7 +41,7 @@
     },
     {
       "titulo": "Series",
-      "cor": "#00C86F",
+      "cor": "#D91A2A",
       "link_extra": {
         "text": "Trailer de series",
         "url": "https://www.youtube.com/"
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "Animes",
-      "cor": "#9cd33b",
+      "cor": "#D91A2A",
       "link_extra": {
         "text": "Melhores animes",
         "url": "https://www.youtube.com/"
@@ -101,7 +101,7 @@
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "#D91A2A",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -123,7 +123,7 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#D91A2A",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -153,7 +153,7 @@
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "#D91A2A",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
