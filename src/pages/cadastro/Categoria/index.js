@@ -32,7 +32,7 @@ function CadastroCategoria() {
 
   useEffect(() => {
     console.log('useEffect');
-    const URL = 'http://localhost:8080/categorias';
+    const URL = 'https://projeto-diflix.herokuapp.com/';
     fetch(URL)
       .then(async (respostaServidor) => {
         const resposta = await respostaServidor.json();
